@@ -37,4 +37,4 @@ final LatLng latLng = LatLng(52.49303704, 13.41792593);
 File any issues to the [github issue tracker](https://github.com/fusion44/dart_where39/issues)
 
 ## License 
-See [LICENSE](https://github.com/fusion44/dart_where39/blob/master/LICENSE.md) file
+See [LICENSE](https://github.com/fusion44/dart_where39/blob/master/LICENSE) file
