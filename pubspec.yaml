@@ -1,0 +1,14 @@
+name: dart_where39
+description: Use BIP39 words to locate anywhere in the world - Dart version!
+version: 1.0.0
+author: Stefan Stammberger
+homepage: https://github.com/fusion44/dart_where39
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  latlong: ^0.6.1
+  
+dev_dependencies:
+  test: ^1.0.0
